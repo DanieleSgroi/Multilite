@@ -4,7 +4,7 @@ Oregon Scientific compatible Temperature, Humidity, UV and Luxmeter Sensor
 This is an Oregon Scientific THGR810 / UVN8000 sensor emulator (Temperature,
   Humidity and UV) based on Joseph Shuy work: http://shuhy.com/esi/osv3_dock_sensor.htm
 
-  Designed and modified by Daniele Sgroi, OS Protocol 3.0, (C)2017 daniele.sgroi@gmail.com
+  Designed and modified by Daniele Sgroi, for OS Protocol 3.0, daniele.sgroi@gmail.com
 
   Using task scheduler from Anatoli Arkhipenko: https://github.com/arkhipenko/TaskScheduler
 
