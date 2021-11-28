@@ -32,7 +32,7 @@ Channel allocations (total of 7 measurements possible):
   0 UV Index
   2 Temperature and Humidity %
   3 Lux (sent scaled as Temperature) and Battery (sent scaled as Humidity %)
-
+  
 TARGET: ATmega 168 / 8 MHz @ 3.0V = 2.81 mA idle / 6.42 mA tx peak
 
 WARNING: with _DEBUG_ enabled, sketch uses up to 80% of AT168P Dynamic Memory. 
