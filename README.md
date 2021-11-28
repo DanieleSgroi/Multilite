@@ -27,11 +27,11 @@ This is an Oregon Scientific THGR810 / UVN8000 sensor emulator (Temperature,
   - VEML6070 i2c Ultra-Violet radiation sensor
   - HTU21DF i2c Temperature and Humidity sensor (3.3V no i2c pullup)
 
-Channel allocations (total of 7 measurements possible):
+Channel allocations (can be customized):
 
-  0 UV Index
-  2 Temperature and Humidity %
-  3 Lux (sent scaled as Temperature) and Battery (sent scaled as Humidity %)
+  - 0 = UV Index
+  - 2 = Temperature and Humidity %
+  - 3 = Lux (sent scaled as Temperature) and Battery (sent scaled as Humidity %)
   
 TARGET: ATmega 168 / 8 MHz @ 3.0V = 2.81 mA idle / 6.42 mA tx peak
 
